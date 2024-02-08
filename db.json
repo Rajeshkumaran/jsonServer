@@ -1,0 +1,6 @@
+{
+  connections: [{
+  name: "Connection1",
+  id: "1"
+  }]
+}
