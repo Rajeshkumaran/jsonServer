@@ -1,26 +1,22 @@
 {
-  "myConnections": [
-    {
-      "id": "1",
-      "name": "My Connection 1"
-    },
-    {
-      "id": "2",
-      "name": "My Connection 2"
-    }
-  ],
-  "sharedConnections": [
-    {
-      "id": "11",
-      "name": "Shared Connection 1"
-    }
-  ],
-  "recentConnections": [
-    {
-      "id": "21",
-      "name": "Recent Connection 1"
-    }
-  ],
+  "connections": {
+      "myConnections": [
+        {
+          "id": "1",
+          "name": "My Connection 1"
+        },
+        {
+          "id": "2",
+          "name": "My Connection 2"
+        }
+      ],
+      "sharedConnections": [
+        {
+          "id": "11",
+          "name": "Shared Connection 1"
+        }
+      ]
+  },
   "fetch_workbooks": [
     {
       "id": "Work book 1",
@@ -78,8 +74,5 @@
         "name": "Column 3"
       }
     ]
-  },
-  "profile": {
-    "name": "Rajesh"
   }
 }
