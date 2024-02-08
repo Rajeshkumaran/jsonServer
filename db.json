@@ -1,21 +1,21 @@
 {
   "connections": {
-      "myConnections": [
-        {
-          "id": "1",
-          "name": "My Connection 1"
-        },
-        {
-          "id": "2",
-          "name": "My Connection 2"
-        }
-      ],
-      "sharedConnections": [
-        {
-          "id": "11",
-          "name": "Shared Connection 1"
-        }
-      ]
+    "myConnections": [
+      {
+        "id": "1",
+        "name": "My Connection 1"
+      },
+      {
+        "id": "2",
+        "name": "My Connection 2"
+      }
+    ],
+    "sharedConnections": [
+      {
+        "id": "11",
+        "name": "Shared Connection 1"
+      }
+    ]
   },
   "fetch_workbooks": [
     {
@@ -28,23 +28,23 @@
     }
   ],
   "fetch_rows": [
-      {
-        "id": "Row 1",
-        "name": "Row 1"
-      },
-      {
-        "id": "Row 2",
-        "name": "Row 2"
-      }
+    {
+      "id": "Row 1",
+      "name": "Row 1"
+    },
+    {
+      "id": "Row 2",
+      "name": "Row 2"
+    }
   ],
   "fetch_columns": [
-      {
-        "id": "Column 1",
-        "name": "Column 1"
-      },
-      {
-        "id": "Column 2",
-        "name": "Column 2"
-      }
-    ],
+    {
+      "id": "Column 1",
+      "name": "Column 1"
+    },
+    {
+      "id": "Column 2",
+      "name": "Column 2"
+    }
+  ]
 }
