@@ -27,8 +27,7 @@
       "name": "Work book 2"
     }
   ],
-  "fetch_rows": {
-    "Work book 1": [
+  "fetch_rows": [
       {
         "id": "Row 1",
         "name": "Row 1"
@@ -37,20 +36,8 @@
         "id": "Row 2",
         "name": "Row 2"
       }
-    ],
-    "Work book 2": [
-      {
-        "id": "Row 1",
-        "name": "Row 1"
-      },
-      {
-        "id": "Row 2",
-        "name": "Row 2"
-      }
-    ]
-  },
-  "fetch_columns": {
-    "Work book 1": [
+  ],
+  "fetch_columns": [
       {
         "id": "Column 1",
         "name": "Column 1"
@@ -60,19 +47,5 @@
         "name": "Column 2"
       }
     ],
-    "Work book 2": [
-      {
-        "id": "Column 1",
-        "name": "Column 1"
-      },
-      {
-        "id": "Column 2",
-        "name": "Column 2"
-      },
-      {
-        "id": "Column 3",
-        "name": "Column 3"
-      }
-    ]
   }
 }
