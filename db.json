@@ -46,5 +46,11 @@
       "id": "Column 2",
       "name": "Column 2"
     }
-  ]
+  ],
+  "get_preview":{
+    "value":{
+       "value":1.0,
+        "progress":1.0
+        }
+  }
 }
