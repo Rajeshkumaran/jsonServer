@@ -1,21 +1,33 @@
 {
 	"connections": {
-		"myConnections": [
-			{
-				"id": "1",
-				"name": "My Connection 1"
-			},
-			{
-				"id": "2",
-				"name": "My Connection 2"
-			}
-		],
-		"sharedConnections": [
-			{
-				"id": "11",
-				"name": "Shared Connection 1"
-			}
-		]
+		"status": "",
+		"data": {
+			"resources": [
+				{
+					"id": "20220713-dd86-4cd3-ade8-dadd88215a60",
+					"name": "My Excel connection 2",
+					"type": "Excel",
+					"status": 1,
+					"isShared": true,
+					"encryptedCredentials": null,
+					"aadCreatorObjectId": "72a5a77d-7b48-4766-b9bd-64682698f284",
+					"aadTenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+				},
+{
+					"id": "20220713-dd86-4cd3-ade8-dadd88215a61",
+					"name": "My Excel connection 1",
+					"type": "Excel",
+					"status": 1,
+					"isShared": true,
+					"encryptedCredentials": null,
+					"aadCreatorObjectId": "72a5a77d-7b48-4766-b9bd-64682698f284",
+					"aadTenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+				}
+			],
+			"continuationToken": "",
+			"totalCount": 3
+		},
+		"error": {}
 	},
 	"fetch_workbooks": {
 		"status": "",
